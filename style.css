@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    border: 1px solid white;
+}
+.header {
+    height: 100px;
+    background-color: green;
+
+}
+.zalias {
+    height: 500px;
+    background-color: green;
+}
+.raudonas {
+    background-color: red;
+    height: 400px;
+    width: 500px;
+}
+.geltonas {
+    background-color: green;
+    margin-left: 8.3%;
+    margin-top: -6.20%;
+    height: 121px;
+    background-color: yellow;
+}
